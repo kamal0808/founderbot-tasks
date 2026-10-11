@@ -8,6 +8,8 @@ Units: 1 Neki = 1 rupee of work at market price (what a competent mid-level free
 |---|---|---|---|---|---|---|
 | 1 | 2026-10-08 | Kamal Khatwani | Building Founderbot to date, at rebuild cost (breakdown below) | 15,55,000 | provisional | |
 | 2 | 2026-10-11 | Kamal Khatwani | Correction to row 1: Founderbot was built from mid-2025 with AI, so it's repriced on rate card v2 (work done with AI), 15,55,000 → 3,32,500 (breakdown below) | −12,22,500 | provisional | |
+| 3 | 2026-10-11 | Kamal Khatwani | Founderbot v1 (Jun–Jul 2025, kamal0808/founderbot, launched 10 Jul): landing page with 16 animated founder scenes and waitlist, chat co-pilot with LangGraph agent, tools, MCP client and cards. D3 + C3 + C2 + C4 + 2 × C3 | 65,000 | provisional | https://github.com/kamal0808/founderbot |
+| 4 | 2026-10-11 | Kamal Khatwani | Founderbot guided-form version (17 Apr 2026, kamal0808/founderbot-v2): analyse an idea against the YC rubric and strengthen it step by step. Anchor C3 | 6,500 | provisional | https://github.com/kamal0808/founderbot-v2 |
 
 ## Row 2 breakdown (rate card v2, 2026-10-11)
 
@@ -27,7 +29,7 @@ Same items as row 1, priced as work done with AI (TOPC rate card v2), the way Id
 | Hosting and setup: founderbot.ai domain, Vercel, Azure browser host | C3 | 6,500 |
 | **Total** | | **3,32,500** |
 
-Still not included: the Founderbot plugin (work in progress) and the 2025 v1 repo; add them as new rows when priced.
+Still not included: the Founderbot plugin (founderbot-tasks#1, earned on accept). v1 and the guided-form version are rows 3 and 4. The project dashboard, the company brain (app events through Composio) and the distribution map are all in row 1. Each version is a different direction for the same idea.
 
 ## Row 1 breakdown (rebuild cost, 2026-10-08)
 
