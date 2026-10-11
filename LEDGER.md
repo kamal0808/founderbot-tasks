@@ -7,6 +7,27 @@ Units: 1 Neki = 1 rupee of work at market price (what a competent mid-level free
 | # | Date | Who | What | Neki | Status | Link |
 |---|---|---|---|---|---|---|
 | 1 | 2026-10-08 | Kamal Khatwani | Building Founderbot to date, at rebuild cost (breakdown below) | 15,55,000 | provisional | |
+| 2 | 2026-10-11 | Kamal Khatwani | Correction to row 1: Founderbot was built from mid-2025 with AI, so it's repriced on rate card v2 (work done with AI), 15,55,000 → 3,32,500 (breakdown below) | −12,22,500 | provisional | |
+
+## Row 2 breakdown (rate card v2, 2026-10-11)
+
+Same items as row 1, priced as work done with AI (TOPC rate card v2), the way Ideato's founding work was repriced. Row 1 used hand-work freelancer prices; row 2 corrects it to this total.
+
+| Item | Anchors | Neki |
+|---|---|---|
+| Product and UX design: workspace, Idea Lab, project dashboard, The Founder, design system | D4 | 36,000 |
+| Frontend: ~30 pages | 30 × ½ × C3 | 97,500 |
+| AI co-founder core: chat with steering, tools, state machine, founder memory, Idea Lab research | 2 × C4 | 64,000 |
+| Project workspace: priorities, artifacts, competitors, network, applications, evidence | C4 | 32,000 |
+| Integrations: Composio connectors and triggers, Supabase data source, WhatsApp, agent skills | C4 + C3 | 38,500 |
+| Backend: Supabase schema (24 migrations), ~60 API routes, background jobs | C4 | 32,000 |
+| Billing: Dodo Payments, plans, pricing page | C3 | 6,500 |
+| Lifecycle and briefing emails, release digest, analytics | 2 × C3 | 13,000 |
+| Distribution map | C3 | 6,500 |
+| Hosting and setup: founderbot.ai domain, Vercel, Azure browser host | C3 | 6,500 |
+| **Total** | | **3,32,500** |
+
+Still not included: the Founderbot plugin (work in progress) and the 2025 v1 repo; add them as new rows when priced.
 
 ## Row 1 breakdown (rebuild cost, 2026-10-08)
 
