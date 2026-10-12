@@ -6,7 +6,7 @@ Founderbot's public project repo: the shared record of [Founderbot](https://www.
 - [Issues](https://github.com/kamal0808/founderbot-tasks/issues): open tasks. Each issue is one task, and its `neki:N` label is the Neki it earns (1 Neki = 1 rupee of work at market price).
 - [`LEDGER.md`](LEDGER.md): who has earned what. Your share of Founderbot = your Neki / all Neki there.
 
-The code is in a separate private repo.
+Code: the live app in [kamal0808/ideato](https://github.com/kamal0808/ideato) (`apps/founderbot`), the skill in [kamal0808/founderbot-v2](https://github.com/kamal0808/founderbot-v2), v1 in [kamal0808/founderbot](https://github.com/kamal0808/founderbot). Private for now: you get access when you join the project.
 
 ## How it works
 
